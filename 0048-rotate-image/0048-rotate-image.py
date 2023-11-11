@@ -13,6 +13,6 @@ class Solution:
                 down-=1
         #transpose
         for i in range(len(matrix)):
-            for j in range(i,len(matrix)):
+            for j in range(i):
                 matrix[i][j],matrix[j][i]= matrix[j][i],matrix[i][j]
     
