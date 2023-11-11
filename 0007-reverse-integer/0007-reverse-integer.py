@@ -4,7 +4,4 @@ class Solution:
            result = int(str(x)[::-1])
         else:
             result = -1*int(str(x)[1:][::-1])
-        if -2**31 <= result <= (2**31)-1:
-            return result
-        else:
-            return 0
+        return result if result.bit_length() < 32 else 0
