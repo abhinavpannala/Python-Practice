@@ -1,10 +1,15 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-
-        dict1 = defaultdict(int)
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        hash = {}
         for i in range(len(nums)):
-            if target-nums[i] in dict1.keys():
-                return [dict1[target-nums[i]],i]
+            diff = target - nums[i]
+            if diff in hash:
+                return [i,hash[diff]]
             else:
-                dict1[nums[i]]=i
-   
+                hash[nums[i]]=i
+        
