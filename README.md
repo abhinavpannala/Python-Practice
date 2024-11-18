@@ -16,6 +16,7 @@ Hone Python Skills
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavpannala/Python-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/abhinavpannala/Python-Practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/abhinavpannala/Python-Practice/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
@@ -33,4 +34,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhinavpannala/Python-Practice/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhinavpannala/Python-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
