@@ -5,11 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        hash = {}
+        location = {}
+        list1 = []
         for i in range(len(nums)):
-            diff = target - nums[i]
-            if diff in hash:
-                return [i,hash[diff]]
+            if target-nums[i] in location.keys():
+                list1 = [location[target-nums[i]],i]
+                break
             else:
-                hash[nums[i]]=i
-        
+                location[nums[i]] = i
+        return list1
