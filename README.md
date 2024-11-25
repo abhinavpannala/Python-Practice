@@ -7,6 +7,7 @@ Hone Python Skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpannala/Python-Practice/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhinavpannala/Python-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
