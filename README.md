@@ -19,6 +19,7 @@ Hone Python Skills
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavpannala/Python-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhinavpannala/Python-Practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/abhinavpannala/Python-Practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/abhinavpannala/Python-Practice/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/abhinavpannala/Python-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
