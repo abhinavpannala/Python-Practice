@@ -13,6 +13,7 @@ Hone Python Skills
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpannala/Python-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavpannala/Python-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Hone Python Skills
 | [0020-valid-parentheses](https://github.com/abhinavpannala/Python-Practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/abhinavpannala/Python-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhinavpannala/Python-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +74,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0226-invert-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
