@@ -8,6 +8,7 @@ Hone Python Skills
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpannala/Python-Practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/abhinavpannala/Python-Practice/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/abhinavpannala/Python-Practice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
