@@ -7,18 +7,12 @@ class Solution(object):
         :type color: int
         :rtype: List[List[int]]
         """
-        m=0
-        n=0
-        for i in image:
-            m+=1
-            n=0
-            for j in i:
-                n+=1
+        m=len(image)
+        n=len(image[0])
         initialvalue = image[sr][sc]
-        if initialvalue == color:
-            return image
+    
         def recursion(x,y):
-            if x < 0 or x >= m or y < 0 or y >= n or image[x][y] != initialvalue:
+            if x < 0 or x >= m or y < 0 or y >= n or image[x][y] != initialvalue or image[x][y]==color:
                 return
             
             # Update the pixel color
