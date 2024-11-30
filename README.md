@@ -45,6 +45,7 @@ Hone Python Skills
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavpannala/Python-Practice/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/abhinavpannala/Python-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +104,12 @@ Hone Python Skills
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhinavpannala/Python-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhinavpannala/Python-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
