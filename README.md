@@ -17,6 +17,7 @@ Hone Python Skills
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavpannala/Python-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/abhinavpannala/Python-Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhinavpannala/Python-Practice/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Hone Python Skills
 | [0067-add-binary](https://github.com/abhinavpannala/Python-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhinavpannala/Python-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhinavpannala/Python-Practice/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/abhinavpannala/Python-Practice/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/abhinavpannala/Python-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
