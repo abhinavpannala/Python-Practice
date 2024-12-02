@@ -35,6 +35,7 @@ Hone Python Skills
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhinavpannala/Python-Practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/abhinavpannala/Python-Practice/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Hone Python Skills
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhinavpannala/Python-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -123,4 +125,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/abhinavpannala/Python-Practice/tree/master/0383-ransom-note) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhinavpannala/Python-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
