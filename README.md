@@ -8,6 +8,7 @@ Hone Python Skills
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpannala/Python-Practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/abhinavpannala/Python-Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/abhinavpannala/Python-Practice/tree/master/0792-binary-search) |
 ## Hash Table
@@ -16,6 +17,7 @@ Hone Python Skills
 | [0001-two-sum](https://github.com/abhinavpannala/Python-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavpannala/Python-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/abhinavpannala/Python-Practice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/abhinavpannala/Python-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/abhinavpannala/Python-Practice/tree/master/0409-longest-palindrome) |
@@ -99,6 +101,7 @@ Hone Python Skills
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinavpannala/Python-Practice/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -128,6 +131,7 @@ Hone Python Skills
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhinavpannala/Python-Practice/tree/master/0383-ransom-note) |
 ## Memoization
 |  |
@@ -137,4 +141,8 @@ Hone Python Skills
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/abhinavpannala/Python-Practice/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
