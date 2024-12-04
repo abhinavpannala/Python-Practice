@@ -1,22 +1,16 @@
-class Solution(object):
-    def addBinary(self, a, b):
-        """
-        :type a: str
-        :type b: str
-        :rtype: str
-        """
-        temp1=0
-        temp2=0
-        counter=0
-        for i in a[::-1]:
-            if i=='1':
-                temp1+=2**counter
-            counter+=1
-        counter=0
-        for i in b[::-1]:
-            if i=='1':
-                temp2 = temp2+2**counter
-            counter+=1
-        temp3 = bin(temp1+temp2)
-        return temp3[2:]
-        
+class Solution:
+    def addBinary(self, a: str, b: str) -> str:
+        max_len = max(len(a),len(b))
+        carry=0
+        res=""
+        a,b = a[::-1],b[::-1]
+        for i in range(max_len):
+            digitA = int(a[i]) if i < len(a) else 0
+            digitB = int(b[i]) if i<len(b) else 0
+            intermediate = digitA+digitB+carry
+            char = str(intermediate%2)
+            res = char + res
+            carry = intermediate//2
+        if carry == 1:
+            res = "1"+res
+        return res
