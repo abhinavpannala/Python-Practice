@@ -1,16 +1,16 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        max_len = max(len(a),len(b))
-        carry=0
-        res=""
-        a,b = a[::-1],b[::-1]
-        for i in range(max_len):
-            digitA = int(a[i]) if i < len(a) else 0
-            digitB = int(b[i]) if i<len(b) else 0
-            intermediate = digitA+digitB+carry
-            char = str(intermediate%2)
-            res = char + res
-            carry = intermediate//2
-        if carry == 1:
-            res = "1"+res
-        return res
+        i, j=len(a)-1, len(b)-1
+        carry = 0
+        ans=[]
+        while i>=0 or j>=0 or carry:
+            temp = carry
+            if i>=0:
+                temp+=int(a[i])
+                i-=1
+            if j>=0:
+                temp+=int(b[j])
+                j-=1
+            ans += str(temp % 2) 
+            carry = temp // 2
+        return "".join(ans[::-1])
