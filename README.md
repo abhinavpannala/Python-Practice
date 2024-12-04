@@ -80,12 +80,14 @@ Hone Python Skills
 | [0110-balanced-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/abhinavpannala/Python-Practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -98,6 +100,7 @@ Hone Python Skills
 | [0110-balanced-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/abhinavpannala/Python-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Sorting
 |  |
 | ------- |
