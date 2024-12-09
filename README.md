@@ -7,6 +7,7 @@ Hone Python Skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpannala/Python-Practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/abhinavpannala/Python-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhinavpannala/Python-Practice/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ Hone Python Skills
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavpannala/Python-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhinavpannala/Python-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpannala/Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -156,5 +158,6 @@ Hone Python Skills
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavpannala/Python-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhinavpannala/Python-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
