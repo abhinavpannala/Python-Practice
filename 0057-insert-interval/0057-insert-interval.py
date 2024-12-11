@@ -2,8 +2,6 @@ class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         empty_list = []
         i = 0
-        lrft = 0
-        right = 0
         while i < len(intervals):
             if intervals[i][1] < newInterval[0]:
                 empty_list.append(intervals[i])
